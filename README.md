@@ -1,9 +1,6 @@
 # Introducing myself
 
-* Passionate and curious about futuristic technology,artificial intelligence,deep learning, machine learning, AR & VR,Web5 & Blockchain.
-
-![Header](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/893d649d-292e-4e24-9590-c1cb0e0c1fcb/d9gjc69-ead6b3a8-c368-40d5-81d7-d75b1a0c3810.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg5M2Q2NDlkLTI5MmUtNGUyNC05NTkwLWMxY2IwZTBjMWZjYlwvZDlnamM2OS1lYWQ2YjNhOC1jMzY4LTQwZDUtODFkNy1kNzViMWEwYzM4MTAuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TAtUHc4CIoDZbWqQo_VKAPlnJMKHyGCdyPRAKq9i1kM "Header")
-
+ AI & BlockChain Practitioner
 
 
 ## Programming languages:
